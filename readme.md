@@ -12,7 +12,7 @@ A Streamlit web app for predicting age, gender, and race from images using a mul
 1. **Clone this repository:**
     ```bash
     git clone https://github.com/yourusername/age-gender-race-app.git
-    cd age-gender-race-app
+    cd basicAi
     ```
 
 2. **Add your model file:**
