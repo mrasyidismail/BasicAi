@@ -54,7 +54,7 @@ def get_predictions(model, image_tensor, device):
 # Load model
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = MultiOutputResNet().to(DEVICE)
-model.load_state_dict(torch.load("./model/new/multioutput_utkface.pth", map_location=DEVICE))
+model.load_state_dict(torch.load("./model/multioutput_utkface.pth", map_location=DEVICE))
 model.eval()
 
 st.title("Age, Gender, and Race Prediction")
