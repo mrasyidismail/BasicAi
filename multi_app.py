@@ -59,7 +59,7 @@ model.eval()
 
 st.title("Age, Gender, and Race Prediction")
 st.write("Anggota Kelompok:\n- Muhammad Rasyid Ismail (2702377480)\n- Ranindya Faradhani (2702397406)\n - Lydia Cong Andinata (2702376490)\n - Muhammad Zick Al-Farizi (2702384473)")
-st.write("Link Presentasi: [Canva](https://www.canva.com/)")
+st.write("Link Presentasi: [Canva](https://www.canva.com/design/DAGo--ONQnc/3a9g-Ds6pxUeObgwVHpkeg/view?utm_content=DAGo--ONQnc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc8ea6725f1)")
 st.write("Link Dataset: [UTKFace Dataset](https://susanqq.github.io/UTKFace/)")
 st.write("Link GitHub: [GitHub Repository](https://github.com/mrasyidismail/BasicAi)")
 
